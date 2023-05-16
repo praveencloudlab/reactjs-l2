@@ -54,15 +54,24 @@ function teach(){
 //teach()
 //teach()
 
- let funObj=teach();
+ //let funObj=teach();
  //l1()
  //l1()
  //l1()
- funObj.learn()
- funObj.task()
- funObj.task()
- funObj.task()
- funObj.learn()
+ //funObj.learn()
+ //funObj.task()
+ //funObj.task()
+ //funObj.task()
+ //funObj.learn()
+
+
+ let{task,learn}=teach();
+
+ learn()
+learn()
+ task()
+ task()
+ task()
 
  
 
