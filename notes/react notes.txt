@@ -1,0 +1,23 @@
+Creating new react application (not broswr based)
+
+1. npx create-react-app 2-react-core
+2. cd 2-react-core
+>2-react-core
+
+Note: 
+1. to start reacxt application, use npm start command 
+2. to stop server, presss ctrl + c 
+
+
+Extensions VS Code
+====================
+1.Reactjs code snippets (https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+2. Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
+   (https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+3.Path Autocomplete (https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+
+4. vscode-icons (https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+
+
