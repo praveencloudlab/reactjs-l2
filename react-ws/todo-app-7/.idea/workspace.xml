@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7a65189-6acf-4eb2-9c01-b26e72bf6eb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lifecycle_5/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-app-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TodoApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use-effect-6/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q0EQNLhzhSSpHu46wZpAqG32Uc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7a65189-6acf-4eb2-9c01-b26e72bf6eb7" name="Changes" comment="" />
+      <created>1684482083467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684482083467</updated>
+      <workItem from="1684482084673" duration="1157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
