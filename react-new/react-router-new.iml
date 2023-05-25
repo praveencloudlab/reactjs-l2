@@ -2,9 +2,7 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/todo-app-7">
-      <excludeFolder url="file://$MODULE_DIR$/todo-app-7/build" />
-    </content>
+    <content url="file://$MODULE_DIR$/react-router-new" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
