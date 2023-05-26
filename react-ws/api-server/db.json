@@ -1,20 +1,8 @@
 {
   "products": [
     {
-      "id": 10,
-      "name": "Pen",
-      "price": 56,
-      "description": "Red Ink"
-    },
-    {
-      "id": 11,
-      "name": "Book",
-      "price": 432,
-      "description": "Java Book"
-    },
-    {
       "id": 12,
-      "name": "Laptop",
+      "name": "Laptop3",
       "price": 67000,
       "description": "Dell i9"
     },
@@ -29,18 +17,6 @@
       "name": "Mobile",
       "price": 45000,
       "description": "Apple 14 Pro Max"
-    },
-    {
-      "id": "16",
-      "name": "Watch",
-      "price": "68000",
-      "description": "Apple"
-    },
-    {
-      "id": "17",
-      "name": "Fan",
-      "price": "5600",
-      "description": "Table Fan"
     }
   ],
   "users": [],
